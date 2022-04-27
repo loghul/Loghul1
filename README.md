@@ -25,6 +25,7 @@ Step 9: Save and run the application.
 
 ## PROGRAM:
 ``` java
+
 ### activity_main.xml
 
 <?xml version="1.0" encoding="utf-8"?>
