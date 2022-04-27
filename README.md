@@ -164,5 +164,6 @@ public class MainActivity2 extends AppCompatActivity {
 }
 ```
 ## OUTPUT:
-![2](https://user-images.githubusercontent.com/78194419/165574725-02eddf45-3b9f-4157-9792-832ff863253a.jpeg)
+![2 (2)](https://user-images.githubusercontent.com/78194419/165578103-44a6b5b3-54f4-4390-b512-775f2cbb9aa9.jpeg)
+
 ![1](https://user-images.githubusercontent.com/78194419/165574856-0857be60-14bc-4d43-9a1c-23d590b055e6.jpeg)
