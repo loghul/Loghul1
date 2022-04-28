@@ -169,7 +169,7 @@ public class MainActivity2 extends AppCompatActivity {
 ![1](https://user-images.githubusercontent.com/78194419/165574856-0857be60-14bc-4d43-9a1c-23d590b055e6.jpeg)
 
 
-Arithmatic Operations
+# Arithmatic Operations
 
 ## activity_main.xml
 ``` java
@@ -353,5 +353,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-result
+## result
 Thus a Simple Android Application Show Image file sending data from one activity to another activity and Display the output for arithmetic operations is developed and executed successfully.
